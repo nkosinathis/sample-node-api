@@ -88,7 +88,8 @@ We expect following in service folder `start.sh`. In our case its bin folder wit
 
 Please see static definition file `sample-node-api.yml`      
 It configures service endpoint as `sample-node-api` with property `serviceId`     
-We also provide api gateway base path `api\v1` with property `gatewayUrl` in same file.        
+We also provide api gateway base path `api\v1` with property `gatewayUrl` in same file.  
+We also provide api gateway base path `api\v1` with property `gatewayUrl` in same file. 
 
 
 In effect, service can be accessed with following url:      
