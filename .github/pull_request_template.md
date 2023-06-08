@@ -8,6 +8,13 @@ We strive to have all PR being opened based on an issue, where the problem or fe
 
 Please reference the issue this PR will close: #_[issue number]_
 
+## How Has This Been Tested?
+
+Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+
+- [ ] Unit and Integration tests
+- [ ] Deployed and Tested on Dev
+
 ## Checklist
 
 Please make sure you've completed the relevant tasks for this PR, out of the following list:
