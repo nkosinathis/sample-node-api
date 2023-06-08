@@ -1,4 +1,4 @@
-# sample-node-api  
+# sample-node-api for my liking
 A sample node js api for finding cars and accounts for a dealership,its used here to demonstrate the steps to extend API/ML with your own rest api.     
 
 ## Steps
