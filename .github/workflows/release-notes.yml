@@ -17,5 +17,5 @@ jobs:
       uses: docker://decathlon/release-notes-generator-action:2.0.1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        OUTPUT_FOLDER: temp_release_notes
+        OUTPUT_FOLDER: rn
         USE_MILESTONE_TITLE: "true"
