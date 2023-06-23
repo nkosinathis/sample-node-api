@@ -12,6 +12,7 @@ This sample express app, has https enabled already.
 
 ## Method 1: From github
 ### 1) Clone the repository, install node packages  and verify routes locally and make sure its cloned
+### 1) Clone the repository, install node packages  and verify routes locally and make sure its cloned
 
 ``` 
 //on local
